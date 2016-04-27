@@ -1,0 +1,14 @@
+{
+  "name": "AngularMvcVs",
+  "homepage": "https://github.com/kurtlippert/angular-mvc-vs",
+  "authors": [
+    "Kurt Lippert <kurtlippert@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
